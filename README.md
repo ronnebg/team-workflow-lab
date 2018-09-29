@@ -143,3 +143,21 @@ The instrunctions below are written for team memeber *Red*, but should be follow
      they do arise.
 
      **Important**: As a best practice, always merge `master` into your feature branch when working in a team, not the other way around.  Any code that gets added to the `master` branch needs to be added through a pull request. 
+
+
+### Step 2: Make additional contribution and resolve merge conflict
+
+### Step 3: Practice the process by making code changes
+
+This third step is optional, but it reinforces the concepts discussed above by requiring each team to make changes to the existing 
+skeleton code. 
+
+1. Create a button labeled `Red`. This should be added to the existing `index.html` file.
+
+2. Add a style for the button to the `style.css` file, so that the button has a background color red.
+
+3. Add code to the file `app.js`, that changes the text inside the div `messageDiv` to "The red button was clicked".
+
+4. Update the project so that clicking the button `Red` will run the code that displays the message inside the `<div>` box.
+
+5. Update the code so that clicking th button also changes the backround color of the `messageDiv` to red.
