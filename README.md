@@ -1,3 +1,6 @@
+FOO FOO FOO FOO
+
+
 # Team GIT Workflow Lab
 
 In this lab you will practice following a workflow that will help you to collaborate as an engineering team on joint project that is stored in git.
